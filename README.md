@@ -1,5 +1,8 @@
 # ✨ Ponte de Cristal - O Jogo ✨
 
+![tela 1 pontedecristal](https://github.com/user-attachments/assets/28d61b64-bfd3-48e6-87c7-1d3df8db79af)
+
+
 ## 🎮 Sobre o Jogo
 O **Ponte de Cristal** é um jogo de azar e coragem inspirado no famoso desafio do "Squid Game". O jogador precisa atravessar uma ponte de vidro escolhendo entre diferentes pisos, mas cuidado! Se pisar no vidro errado, ele quebra e o jogo acaba!
 
@@ -24,7 +27,7 @@ O **Ponte de Cristal** é um jogo de azar e coragem inspirado no famoso desafio 
 📸 Screenshots
 
 📍 Tela Inicial
-![tela 1 pontedecristal](https://github.com/user-attachments/assets/4da1c45b-7aaa-4219-9e9a-46606d40e759)
+
 ![tela 2 pontedecristal](https://github.com/user-attachments/assets/f760c49a-6a1b-4ed1-8bb3-c589b8d8e4a3)
 
 
