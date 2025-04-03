@@ -51,7 +51,7 @@ O **Ponte de Cristal** é um jogo de azar e coragem inspirado no famoso desafio 
 ## 🛠 Como Executar o Jogo
 1. Baixe ou clone este repositório:
    ```sh
-   git clone https://github.com/Devaks99/PonteDeCristal.git
+   git clone https://github.com/Devaks99/PonteCristal-Game.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 3. **Divirta-se jogando!** 🎮
@@ -68,5 +68,13 @@ O **Ponte de Cristal** é um jogo de azar e coragem inspirado no famoso desafio 
 ## 👋 Contribuições
 Sinta-se livre para sugerir melhorias ou relatar bugs!
 
-**Desenvolvido por Ana Karla (@Devaks99)** ✨
+## 📜 **Licença**
+
+Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para detalhes.
+
+---
+
+**🎯 Desenvolvido com ❤️ por [Ana Karla (Devaks99)](https://github.com/Devaks99)**  
+*✨ "Divirta-se enquanto testa sua sorte contra o algoritmo!" ✨*
+```
 
